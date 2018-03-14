@@ -38,7 +38,7 @@ public void setBombs()
     if (!bombs.contains(buttons[r][c]))
     {
       bombs.add(buttons[r][c]);
-      System.out.println(r+ "," +c);
+      
     }
   }
 }
